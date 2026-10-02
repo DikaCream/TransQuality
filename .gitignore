@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.env
+*.egg-info
+dist/
+build/
+*.egg
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+dist/
+build/
+*.log
+npm-debug.log*
+.yarn/
+.pnp
+.pnp.js
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# GenLayer
+artifacts/
+gltest.config.yaml
+
+# Vercel
+.vercel

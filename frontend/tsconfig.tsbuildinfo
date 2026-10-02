@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/config.ts","./src/main.tsx","./src/types.ts","./src/context/transqualitycontext.tsx","./src/lib/client.ts","./src/lib/contract.ts","./src/pages/board.tsx","./src/pages/jobdetailpage.tsx","./src/pages/submitpage.tsx"],"errors":true,"version":"5.9.3"}
